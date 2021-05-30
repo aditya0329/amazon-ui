@@ -56,7 +56,7 @@ function CheckoutProduct({
                 </div>
                 )}
                
-                    {/* <p className='flex flex-col space-y-1 text-xs'>Qty: {incrementQty}</p> */}
+                  
               
             </div>
             {/* Right Part */}
